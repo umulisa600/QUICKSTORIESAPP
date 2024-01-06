@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Rustic Elegance</item>
+        <item>Urban Twilight</item>
+        <item>Serene Waters</item>
+        <item>Mystical Forest</item>
+        <item>Whimsical Wonderland</item>
+        <item>Industrial Harmony</item>
+        <item>Arcane Secrets</item>
+        <item>Captivating Sunsets</item>
+        <item>Abstract Echoes</item>
+        <item>Cityscape Dreams</item>
+        <item>Timeless Tranquility</item>
+        <item>Enchanting Vistas</item>
+        <item>Celestial Beauty</item>
+        <item>Ethereal Essence</item>
+        <item>Dynamic Horizons</item>
+        <item>Harmony in Chaos</item>
+        <item>Tranquil Tropics</item>
+        <item>Whispering Winds</item>
+        <item>City Lights Symphony</item>
+        <item>Emerald Meadows</item>
+        <item>Morning Dew Serenade</item>
+        <item>Whirlwind of Colors</item>
+        <item>Cosmic Canvas</item>
+        <item>Regal Reflections</item>
+        <item>Hidden Oasis</item>
+        <item>Majestic Peaks</item>
+        <item>Abstract Bliss</item>
+        <item>Opulent Orchids</item>
+        <item>Starlit Melodies</item>
+        <item>Golden Hour Glow</item>
+        <item>Oceanic Symphony</item>
+        <item>Firefly Reverie</item>
+        <item>Lost in Lavender Hues</item>
+        <item>Quintessential Quasar</item>
+        <item>Emerging Aurora</item>
+        <item>Surreal Splendors</item>
+        <item>Endless Echo Chambers</item>
+        <item>Radiant Rose Garden</item>
+        <item>Silhouettes of Serenity</item>
+        <item>Luminous Labyrinth</item>
+
+
+    </string-array>
+</resources>

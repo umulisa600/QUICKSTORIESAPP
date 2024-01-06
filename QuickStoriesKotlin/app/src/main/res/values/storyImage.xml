@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1015/1920/1280</item>
+        <item>https://picsum.photos/id/1005/1920/1280</item>
+        <item>https://picsum.photos/id/1011/1920/1280</item>
+        <item>https://picsum.photos/id/1018/1920/1280</item>
+        <item>https://picsum.photos/id/1060/1920/1280</item>
+        <item>https://picsum.photos/id/1035/1920/1280</item>
+        <item>https://picsum.photos/id/1041/1920/1280</item>
+        <item>https://picsum.photos/id/1050/1920/1280</item>
+        <item>https://picsum.photos/id/102/1920/1280</item>
+        <item>https://picsum.photos/id/100/1920/1280</item>
+        <item>https://picsum.photos/id/200/1920/1280</item>
+        <item>https://picsum.photos/id/300/1920/1280</item>
+        <item>https://picsum.photos/id/400/1920/1280</item>
+        <item>https://picsum.photos/id/500/1920/1280</item>
+        <item>https://picsum.photos/id/600/1920/1280</item>
+        <item>https://picsum.photos/id/700/1920/1280</item>
+        <item>https://picsum.photos/id/800/1920/1280</item>
+        <item>https://picsum.photos/id/900/1920/1280</item>
+        <item>https://picsum.photos/id/1000/1920/1280</item>
+        <item>https://picsum.photos/id/1100/1920/1280</item>
+        <item>https://picsum.photos/id/1200/1920/1280</item>
+        <item>https://picsum.photos/id/1300/1920/1280</item>
+        <item>https://picsum.photos/id/1400/1920/1280</item>
+        <item>https://picsum.photos/id/1500/1920/1280</item>
+        <item>https://picsum.photos/id/1600/1920/1280</item>
+        <item>https://picsum.photos/id/1700/1920/1280</item>
+        <item>https://picsum.photos/id/1800/1920/1280</item>
+        <item>https://picsum.photos/id/1900/1920/1280</item>
+        <item>https://picsum.photos/id/2000/1920/1280</item>
+        <item>https://picsum.photos/id/2100/1920/1280</item>
+        <item>https://picsum.photos/id/2200/1920/1280</item>
+        <item>https://picsum.photos/id/2300/1920/1280</item>
+        <item>https://picsum.photos/id/2400/1920/1280</item>
+        <item>https://picsum.photos/id/2500/1920/1280</item>
+        <item>https://picsum.photos/id/2600/1920/1280</item>
+        <item>https://picsum.photos/id/2700/1920/1280</item>
+        <item>https://picsum.photos/id/2800/1920/1280</item>
+        <item>https://picsum.photos/id/2750/1920/1280</item>
+        <item>https://picsum.photos/id/2850/1920/1280</item>
+    </string-array>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/add"
+        android:title="add Story"
+        />
+
+    <item android:title="QuickStories">
+        <menu>
+            <item
+                android:id="@+id/random"
+                android:icon="@drawable/random"
+                android:title="Random Stories"/>
+            <item
+                android:id="@+id/stories"
+                android:icon="@drawable/stories"
+                android:title="Stories" />
+
+
+        </menu>
+    </item>
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/kids"
+                android:icon="@drawable/kids"
+                android:title="kids" />
+            <item
+                android:id="@+id/drama"
+                android:icon="@drawable/drama"
+                android:title="Drama" />
+            <item
+                android:id="@+id/fiction"
+                android:icon="@drawable/fiction"
+                android:title="Fictions" />
+            <item
+                android:id="@+id/action"
+                android:icon="@drawable/action"
+                android:title="Actions" />
+            <item
+                android:id="@+id/romance"
+                android:icon="@drawable/romance"
+                android:title="Romance" />
+            <item
+                android:id="@+id/adv"
+                android:icon="@drawable/adventure"
+                android:title="Adventure" />
+        </menu>
+    </item>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/contact"
+                android:title="Contact Us" />
+
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/rate"
+                android:title="Rate Us" />
+
+        </menu>
+    </item>
+
+</menu>
